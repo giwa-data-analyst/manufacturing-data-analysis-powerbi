@@ -62,7 +62,17 @@ This project addresses these challenges by providing a centralized dashboard for
 
 ## 📸 Dashboard Preview
 
-(Add screenshots of your dashboards here)
+### Executive Overview
+![Executive Overview](executive-overview.png)
+
+### Quality & Defect
+![Quality & Defect](quality-defect.png)
+
+### Downtime & Operational Risk
+![Downtime](downtime-operational-risk.png)
+
+### Efficiency Performance
+![Efficiency](efficiency-performance.png)
 
 ## 💡 Recommendations
 
