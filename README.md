@@ -54,11 +54,17 @@ This project addresses these challenges by providing a centralized dashboard for
 - 📊 Defect rate remains around the threshold, requiring continuous monitoring
 - 🚀 Efficiency performance shows strong potential when downtime is controlled
 
-## 🛠 Tools & Technologies
+## 📌 Business Impact
 
-- Power BI (Data Visualization & Dashboarding)
-- DAX (Data Analysis Expressions)
-- Excel / CSV (Data Source)
+- Improved visibility into production and downtime performance  
+- Enabled identification of inefficiencies across plants  
+- Supported data-driven decision-making for operational optimization  
+- Highlighted key risk areas affecting productivity and quality  
+
+## 🛠 Tools & Technologies
+- 📊 Power BI  
+- 🧠 DAX  
+- 📁 Excel
 
 ## 📸 Dashboard Preview
 
