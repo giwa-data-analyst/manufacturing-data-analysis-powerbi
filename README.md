@@ -73,7 +73,8 @@ This project addresses these challenges by providing a centralized dashboard for
 
 ### 👤 Author
 
-Giwa Tunde
+Giwa Aaron Babatunde
+
 Data Analyst | Power BI Developer
 
 
