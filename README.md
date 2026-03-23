@@ -66,6 +66,9 @@ This project addresses these challenges by providing a centralized dashboard for
 - 🧠 DAX  
 - 📁 Excel
 
+## 📥 Download Project File
+👉 [Download Power BI File](pbix/manufacturing analysis.pbix)
+
 ## 📸 Dashboard Preview
 
 ### Executive Overview
