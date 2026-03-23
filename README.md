@@ -68,7 +68,7 @@ This project addresses these challenges by providing a centralized dashboard for
 
 ## 📥 Download Project File
 Explore the full interactive dashboard:
-👉 [Download Power BI File](pbix/manufacturing analysis.pbix)
+👉 [Download Power BI File](pbix/manufacturing-analysis.pbix)
 
 ## 📸 Dashboard Preview
 
