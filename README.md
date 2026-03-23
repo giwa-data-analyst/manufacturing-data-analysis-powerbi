@@ -69,16 +69,37 @@ This project addresses these challenges by providing a centralized dashboard for
 ## 📸 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](images/executive-overview.png)
+
+<br>
+
+<img src="images/executive-overview.png" width="800"/>
+
+<br>
 
 ### Quality & Defect
-![Quality & Defect](images/quality-defect.png)
+
+<br>
+
+<img src="images/quality-defect.png" width="800"/>
+
+<br>
+
 
 ### Downtime & Operational Risk
-![Downtime](images/downtime-operational-risk.png)
+
+<br>
+
+<img src="images/downtime-operational-risk.png" width="800"/>
+
+<br>
 
 ### Efficiency Performance
-![Efficiency](images/efficiency-performance.png)
+
+<br>
+
+<img src="images/efficiency-performance.png" width="800"/>
+
+<br>
 
 ## 💡 Recommendations
 
@@ -87,10 +108,10 @@ This project addresses these challenges by providing a centralized dashboard for
 - Optimize plant operations to balance workload and efficiency
 - Track KPIs continuously for proactive decision-making
 
-### 👤 Author
+## 👤 Author
 
-Giwa Aaron Babatunde
-
-Data Analyst | Power BI Developer
-
+**Giwa Aaron Babatunde**  
+📊 Data Analyst | Power BI Developer  
+🚀 "Analyze With Giwa"  
+🔗 GitHub: https://github.com/giwa-data-analyst
 
