@@ -69,7 +69,7 @@ This project addresses these challenges by providing a centralized dashboard for
 ## 📸 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](executive-overview.png)
+![Executive Overview](images/executive-overview.png)
 
 ### Quality & Defect
 ![Quality & Defect](quality-defect.png)
